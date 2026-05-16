@@ -67,5 +67,5 @@ This project demonstrates skills in:
 - Data visualization
 - Economic and labor market analysis
 - Python data science ecosystem
-
+ 
 ---
